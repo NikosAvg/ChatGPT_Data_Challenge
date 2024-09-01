@@ -1,0 +1,101 @@
+ReviewID,ProductID,Rating,Review,ReviewDate
+1,7,3,this product is amazing!,01/01/2020
+2,4,5,"terrible, would not recommend.",02/01/2020
+3,8,3,"IT WORKS OKAY, NOT THE BEST.",03/01/2020
+4,5,1,absolutely love it!,2020-01-04 00:00:00
+5,7,5,not worth the money.,05/01/2020
+6,3,2,"DECENT QUALITY, BUT OVERPRICED.",2020-01-06 00:00:00
+7,7,3,EXCEEDED MY EXPECTATIONS!,2020-01-07 00:00:00
+8,8,1,"poor quality, broke after a week.",2020-01-08 00:00:00
+9,5,2,JUST OKAY.,09/01/2020
+10,4,2,GREAT VALUE FOR THE PRICE!,2020-01-10 00:00:00
+11,8,4,THIS PRODUCT IS AMAZING!,2020-01-11 00:00:00
+12,8,5,"TERRIBLE, WOULD NOT RECOMMEND.",2020-01-12 00:00:00
+13,3,3,"it works okay, not the best.",2020-01-13 00:00:00
+14,6,1,absolutely love it!,2020-01-14 00:00:00
+15,5,4,not worth the money.,15/01/2020
+16,2,5,"DECENT QUALITY, BUT OVERPRICED.",2020-01-16 00:00:00
+17,8,4,EXCEEDED MY EXPECTATIONS!,2020-01-17 00:00:00
+18,6,5,"poor quality, broke after a week.",2020-01-18 00:00:00
+19,2,5,just okay.,19/01/2020
+20,5,3,great value for the price!,20/01/2020
+21,1,5,this product is amazing!,2020-01-21 00:00:00
+22,6,4,"terrible, would not recommend.",22/01/2020
+23,9,5,"it works okay, not the best.",23/01/2020
+24,1,3,absolutely love it!,2020-01-24 00:00:00
+25,3,3,not worth the money.,25/01/2020
+26,7,4,"decent quality, but overpriced.",2020-01-26 00:00:00
+27,4,2,EXCEEDED MY EXPECTATIONS!,2020-01-27 00:00:00
+28,9,2,"poor quality, broke after a week.",2020-01-28 00:00:00
+29,3,5,just okay.,2020-01-29 00:00:00
+30,5,1,great value for the price!,2020-01-30 00:00:00
+31,3,5,this product is amazing!,2020-01-31 00:00:00
+32,7,4,"TERRIBLE, WOULD NOT RECOMMEND.",2020-02-01 00:00:00
+33,5,4,"it works okay, not the best.",2020-02-02 00:00:00
+34,9,4,ABSOLUTELY LOVE IT!,03/02/2020
+35,7,4,NOT WORTH THE MONEY.,04/02/2020
+36,2,4,"DECENT QUALITY, BUT OVERPRICED.",05/02/2020
+37,4,3,EXCEEDED MY EXPECTATIONS!,2020-02-06 00:00:00
+38,9,2,"poor quality, broke after a week.",07/02/2020
+39,2,4,just okay.,2020-02-08 00:00:00
+40,9,1,great value for the price!,2020-02-09 00:00:00
+41,5,1,THIS PRODUCT IS AMAZING!,2020-02-10 00:00:00
+42,2,1,"TERRIBLE, WOULD NOT RECOMMEND.",2020-02-11 00:00:00
+43,4,1,"IT WORKS OKAY, NOT THE BEST.",2020-02-12 00:00:00
+44,7,3,ABSOLUTELY LOVE IT!,13/02/2020
+45,8,1,not worth the money.,14/02/2020
+46,3,4,"DECENT QUALITY, BUT OVERPRICED.",2020-02-15 00:00:00
+47,1,5,exceeded my expectations!,16/02/2020
+48,4,1,"poor quality, broke after a week.",17/02/2020
+49,2,3,just okay.,2020-02-18 00:00:00
+50,8,3,GREAT VALUE FOR THE PRICE!,19/02/2020
+51,4,1,this product is amazing!,2020-02-20 00:00:00
+52,2,5,"terrible, would not recommend.",21/02/2020
+53,6,1,"it works okay, not the best.",2020-02-22 00:00:00
+54,6,3,ABSOLUTELY LOVE IT!,2020-02-23 00:00:00
+55,4,2,not worth the money.,2020-02-24 00:00:00
+56,6,4,"DECENT QUALITY, BUT OVERPRICED.",2020-02-25 00:00:00
+57,2,3,EXCEEDED MY EXPECTATIONS!,2020-02-26 00:00:00
+58,2,1,"POOR QUALITY, BROKE AFTER A WEEK.",27/02/2020
+59,4,4,JUST OKAY.,2020-02-28 00:00:00
+60,8,1,great value for the price!,2020-02-29 00:00:00
+61,7,1,THIS PRODUCT IS AMAZING!,01/03/2020
+62,9,2,"TERRIBLE, WOULD NOT RECOMMEND.",2020-03-02 00:00:00
+63,8,4,"it works okay, not the best.",2020-03-03 00:00:00
+64,5,4,ABSOLUTELY LOVE IT!,04/03/2020
+65,2,2,not worth the money.,2020-03-05 00:00:00
+66,5,3,"DECENT QUALITY, BUT OVERPRICED.",2020-03-06 00:00:00
+67,8,1,EXCEEDED MY EXPECTATIONS!,07/03/2020
+68,9,5,"poor quality, broke after a week.",2020-03-08 00:00:00
+69,9,1,JUST OKAY.,2020-03-09 00:00:00
+70,1,1,great value for the price!,2020-03-10 00:00:00
+71,9,3,this product is amazing!,11/03/2020
+72,7,1,"TERRIBLE, WOULD NOT RECOMMEND.",12/03/2020
+73,9,2,"IT WORKS OKAY, NOT THE BEST.",13/03/2020
+74,8,2,ABSOLUTELY LOVE IT!,2020-03-14 00:00:00
+75,1,4,not worth the money.,2020-03-15 00:00:00
+76,8,5,"DECENT QUALITY, BUT OVERPRICED.",2020-03-16 00:00:00
+77,8,1,EXCEEDED MY EXPECTATIONS!,2020-03-17 00:00:00
+78,3,1,"poor quality, broke after a week.",2020-03-18 00:00:00
+79,1,3,JUST OKAY.,2020-03-19 00:00:00
+80,8,2,GREAT VALUE FOR THE PRICE!,2020-03-20 00:00:00
+81,3,5,THIS PRODUCT IS AMAZING!,21/03/2020
+82,3,4,"terrible, would not recommend.",2020-03-22 00:00:00
+83,1,2,"it works okay, not the best.",23/03/2020
+84,5,4,absolutely love it!,24/03/2020
+85,7,3,NOT WORTH THE MONEY.,25/03/2020
+86,9,3,"decent quality, but overpriced.",26/03/2020
+87,7,1,exceeded my expectations!,2020-03-27 00:00:00
+88,9,5,"poor quality, broke after a week.",28/03/2020
+89,8,4,just okay.,2020-03-29 00:00:00
+90,2,2,great value for the price!,30/03/2020
+91,1,3,THIS PRODUCT IS AMAZING!,31/03/2020
+92,7,1,"terrible, would not recommend.",01/04/2020
+93,7,1,"it works okay, not the best.",02/04/2020
+94,8,4,ABSOLUTELY LOVE IT!,2020-04-03 00:00:00
+95,5,3,NOT WORTH THE MONEY.,04/04/2020
+96,3,5,"DECENT QUALITY, BUT OVERPRICED.",05/04/2020
+97,8,3,EXCEEDED MY EXPECTATIONS!,06/04/2020
+98,6,4,"POOR QUALITY, BROKE AFTER A WEEK.",2020-04-07 00:00:00
+99,3,4,JUST OKAY.,2020-04-08 00:00:00
+100,1,3,great value for the price!,09/04/2020
